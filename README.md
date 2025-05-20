@@ -16,7 +16,7 @@ Este proyecto implementa un análisis de componentes principales (PCA) sobre una
 
 ---
 
-## ▶ Cómo ejecutar el código
+##  Cómo ejecutar el código
 
 ### 1. Clonar el repositorio:
 
